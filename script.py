@@ -1,1 +1,1 @@
-print ("this is my firsct script")
+print ("this is my first script")
