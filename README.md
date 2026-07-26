@@ -10,3 +10,5 @@ To get started, clone this repository
 ```bash
 git clone https://github.com/evgenybo99/git-made-easy
 ```
+
+then you can clone some other repository.
