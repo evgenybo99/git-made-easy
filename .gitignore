@@ -1,4 +1,4 @@
-# dont track log files
+# don't track log files
 *.log
 
 requirements.txt
